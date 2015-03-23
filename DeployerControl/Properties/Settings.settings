@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="toBuildingsDev.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TFSServerUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://team:8080/tfs/WebSites</Value>
+    </Setting>
+    <Setting Name="BaseTFSDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">$/BuildingsDev</Value>
+    </Setting>
+    <Setting Name="BaseDeploymentDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\development.stamats.com\BuildingsDev</Value>
+    </Setting>
+    <Setting Name="BaseZipDeploymentDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\development.stamats.com\BuildingsDev\_build</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
